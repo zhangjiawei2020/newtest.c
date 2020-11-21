@@ -1,2 +1,5 @@
-printf("you are right!");
-printf("wo hao le");
+int main()
+{
+  printf("hello world!");
+  return 0;
+}
